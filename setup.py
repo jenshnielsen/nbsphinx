@@ -30,7 +30,7 @@ setup(
         'traitlets>=5',
         'nbformat',
         # https://github.com/spatialaudio/nbsphinx/issues/825
-        'sphinx >= 1.8, < 8.2',
+        'sphinx >= 1.8',
     ],
     author='Matthias Geier',
     author_email='Matthias.Geier@gmail.com',
